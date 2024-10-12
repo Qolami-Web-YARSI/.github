@@ -1,6 +1,6 @@
 <div>
 	<div align="center">
-		<img src="https://avatars.githubusercontent.com/u/163505295?s=400&u=606b2b690ebeae71912f9f84d5d8e347389b8b5e&v=4" width="200px">
+		<img src="https://avatars.githubusercontent.com/u/163505295?s=400&u=52582bea0ed08661377a589c37697682233c910c&v=4" width="200px">
 	</div>
 	<h1 align="center">Qolami Web</h1>
 	<p align="justify">Qolami Web is a web application developed by the ART team for learning Arabic. The platform provides features that make it easy for users to learn Arabic.</p>
